@@ -1,2 +1,3 @@
 # js-web
-this is my javascript website
+This  is my javascript project.
+Perfomed in js tour.
